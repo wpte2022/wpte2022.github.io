@@ -1,0 +1,19 @@
+body {
+  margin: auto;
+  max-width: 960pt;
+  padding-top: 10px;
+  padding-bottom: 30px;
+  border: 1px solid #DADBDC;
+}
+
+h1 {
+    text-align:center;
+}
+
+p {
+    font-size: 16pt;
+}
+
+li {
+    font-size: 16pt;
+}
