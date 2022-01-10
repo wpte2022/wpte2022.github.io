@@ -1,0 +1,81 @@
+First Call for Papers
+
+---------------------------------------------------------------------------
+WPTE 2022 (affiliated to FSCD 2022, part of FLoC 2022, Haifa, Israel)
+
+9th International Workshop on Rewriting Techniques for Program
+Transformations and Evaluation (July 31st, 2022)
+
+Web:         https://wpte2022.github.io/
+Submit:      https://easychair.org/conferences/?conf=wpte2022
+Deadline:    26 April 2022 (abstract) / 3 May 2022 (paper)
+
+---------------------------------------------------------------------------
+The aim of WPTE is to bring together the researchers working on
+program transformations, evaluation, and operationally based
+programming language semantics, using rewriting methods, in order to
+share the techniques and recent developments and to exchange ideas to
+encourage further activation of research in this area.
+
+List of Topics
+---------------------------------------------------------------------------
+* Correctness of program transformations, optimizations and translations.
+* Program transformations for proving termination, confluence, and
+ other properties.
+* Correctness of evaluation strategies.
+* Operational semantics of programs, operationally-based program
+ equivalences such as contextual equivalences and bisimulations.
+* Cost-models for arguing about the optimizing power of transformations
+ and the costs of evaluation.
+* Program transformations for verification and theorem proving purposes.
+* Translation, simulation, equivalence of programs with different
+ formalisms, and evaluation strategies.
+* Program transformations for applying rewriting techniques to programs
+ in specific programming languages.
+* Program transformations for program inversions and program synthesis.
+* Program transformation and evaluation for Haskell and rewriting.
+
+Submission Guidelines
+---------------------------------------------------------------------------
+For the paper submission deadline an extended abstract of at most 10
+pages is required. The extended abstract may present original work,
+but also work in progress. Based on the submissions the program
+committee will select the presentations for the workshop. All selected
+contributions will be included in the informal proceedings distributed
+to the workshop participants. One author of each accepted extended
+abstract is expected to present it at the workshop. Submissions must
+be prepared in LaTeX using the EPTCS macro package. All submissions
+will be electronic via
+https://easychair.org/conferences/?conf=wpte2022.
+
+Formal Proceedings
+---------------------------------------------------------------------------
+For the 2020 and 2021 editions, WPTE post-proceedings of selected
+papers are scheduled to be published in JLAMP special issues. We
+intend to arrange a special issue for this year as well.
+
+Important Dates
+---------------------------------------------------------------------------
+Submission of extended abstracts: May 3, 2022 (AoE)
+Notification of acceptance: June 15, 2022
+Final version for informal proceedings: June 29, 2022
+Workshop: July 31, 2022
+Submission to post-proceedings: autumn 2022 (tbc)
+
+Program Committees
+---------------------------------------------------------------------------
+María Alpuente, Universitat Politècnica de València, Spain
+Demis Ballis, University of Udine, Italy
+Christopher Brown, University of St Andrews, UK
+Stefan Ciobaca, Alexandru Ioan Cuza University, Romania (co-chair)
+Dániel Horpácsi, Eötvös Loránd University, Hungary
+Shin-Ya Katsumata, National Institute of Informatics, Japan
+Kentaro Kikuchi, Tohoku University, Japan
+Cynthia Kop, Radboud University, The Netherlands
+Koko Muroya, Kyoto University, Japan
+Keisuke Nakano, Tohoku University, Japan (co-chair)
+Masahiko Sakai, Nagoya University, Japan
+ 
+Contact
+---------------------------------------------------------------------------
+Please direct questions to wpte2022@easychair.org.
