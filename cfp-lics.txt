@@ -1,0 +1,24 @@
+WPTE 2022: 9th International Workshop on Rewriting Techniques for Program Transformations and Evaluation
+July 31st, 2022
+  https://wpte2022.github.io/
+  https://easychair.org/conferences/?conf=wpte2022
+CALL FOR PAPERS
+* The aim of WPTE is to bring together the researchers working on program transformations, evaluation, and operationally based programming language semantics, using rewriting methods, in order to share the techniques and recent developments and to exchange ideas to encourage further activation of research in this area.
+* Topics
+  - Correctness of program transformations, optimizations and translations.
+  - Program transformations for proving termination, confluence, and other properties.
+  - Correctness of evaluation strategies.
+  - Operational semantics of programs, operationally-based program equivalences such as contextual equivalences and bisimulations.
+  - Cost-models for arguing about the optimizing power of transformations and the costs of evaluation.
+  - Program transformations for verification and theorem proving purposes.
+  - Translation, simulation, equivalence of programs with different formalisms, and evaluation strategies.
+  - Program transformations for applying rewriting techniques to programs in specific programming languages.
+  - Program transformations for program inversions and program synthesis.
+  - Program transformation and evaluation for Haskell and rewriting.
+* Important dates:
+  - Abstract submission: 26 April 2022
+  - Paper submission: 3 May 2022 (AoE)
+  - Notifications: 15 June 2022
+  - Final version for informal proceedings: 29 June 2022
+  - Workshop: 31 July 2022
+  - Submission to post-proceedings (journal): autumn 2022 (tbc)
