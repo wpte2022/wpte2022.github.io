@@ -1,4 +1,4 @@
-Call for Papers
+First Call for Papers
 
 ---------------------------------------------------------------------------
 WPTE 2022 (affiliated to FSCD 2022, part of FLoC 2022, Haifa, Israel)
@@ -9,9 +9,6 @@ Transformations and Evaluation (July 31st, 2022)
 Web:         https://wpte2022.github.io/
 Submit:      https://easychair.org/conferences/?conf=wpte2022
 Deadline:    26 April 2022 (abstract) / 3 May 2022 (paper)
-Publication: post-proceedings as a special issue in the Journal of
-             Logical and Algebraic Methods in Programming for selected
-             papers
 
 ---------------------------------------------------------------------------
 The aim of WPTE is to bring together the researchers working on
@@ -54,16 +51,12 @@ https://easychair.org/conferences/?conf=wpte2022.
 Formal Proceedings
 ---------------------------------------------------------------------------
 For the 2020 and 2021 editions, WPTE post-proceedings of selected
-papers are scheduled to be published in JLAMP special issues. We are
-delighted that the 2022 workshop will continue this tradition. Based
-on the quality of the submission and the presentation, we will invite
-a selection of papers to be published in extended form in a special
-issue of the Journal of Logical and Algebraic Methods in Programming.
+papers are scheduled to be published in JLAMP special issues. We
+intend to arrange a special issue for this year as well.
 
 Invited Speakers
 ---------------------------------------------------------------------------
-Akihisa YAMADA, National Institute of Advanced Industrial Science and
-Technology (AIST), Japan.
+To be selected.
 
 Important Dates
 ---------------------------------------------------------------------------
@@ -71,7 +64,7 @@ Submission of extended abstracts: May 3, 2022 (AoE)
 Notification of acceptance: June 15, 2022
 Final version for informal proceedings: June 29, 2022
 Workshop: July 31, 2022
-Submission to post-proceedings (JAMP special issue): autumn 2022
+Submission to post-proceedings: autumn 2022 (tbc)
 
 Program Committees
 ---------------------------------------------------------------------------

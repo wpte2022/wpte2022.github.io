@@ -3,6 +3,7 @@ July 31st, 2022
   https://wpte2022.github.io/
   https://easychair.org/conferences/?conf=wpte2022
 CALL FOR PAPERS
+* New! Publication will be organized for the best papers as part of a Special Issue in the Journal of Logical and Algebraic Methods in Programming.
 * The aim of WPTE is to bring together the researchers working on program transformations, evaluation, and operationally based programming language semantics, using rewriting methods, in order to share the techniques and recent developments and to exchange ideas to encourage further activation of research in this area.
 * Topics
   - Correctness of program transformations, optimizations and translations.
@@ -21,4 +22,4 @@ CALL FOR PAPERS
   - Notifications: 15 June 2022
   - Final version for informal proceedings: 29 June 2022
   - Workshop: 31 July 2022
-  - Submission to post-proceedings (journal): autumn 2022 (tbc)
+  - Post-proceedings (JLAMP special issue): autumn 2022
