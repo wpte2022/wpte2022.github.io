@@ -8,7 +8,7 @@ Transformations and Evaluation (July 31st, 2022)
 
 Web:         https://wpte2022.github.io/
 Submit:      https://easychair.org/conferences/?conf=wpte2022
-Deadline:    26 April 2022 (abstract) / 3 May 2022 (paper)
+Deadline:    10 May 2022 (extended)
 Publication: post-proceedings as a special issue in the Journal of
              Logical and Algebraic Methods in Programming for selected
              papers
@@ -67,7 +67,7 @@ Technology (AIST), Japan.
 
 Important Dates
 ---------------------------------------------------------------------------
-Submission of extended abstracts: May 3, 2022 (AoE)
+Submission of extended abstracts: May 10, 2022 (AoE, extended)
 Notification of acceptance: June 15, 2022
 Final version for informal proceedings: June 29, 2022
 Workshop: July 31, 2022
