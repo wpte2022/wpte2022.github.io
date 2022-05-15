@@ -1,3 +1,6 @@
+WPTE 2022 final CFP (deadline: 31 May, publication JLAMP)
+
+
 Call for Papers
 
 ---------------------------------------------------------------------------
@@ -8,10 +11,8 @@ Transformations and Evaluation (July 31st, 2022)
 
 Web:         https://wpte2022.github.io/
 Submit:      https://easychair.org/conferences/?conf=wpte2022
-Deadline:    10 May 2022 (extended)
-Publication: post-proceedings as a special issue in the Journal of
-             Logical and Algebraic Methods in Programming for selected
-             papers
+Deadline:    31 May 2022 (AOE, extended, firm)
+Publication: post-proceedings as special issue in the Journal of Logical and Algebraic Methods in Programming
 
 ---------------------------------------------------------------------------
 The aim of WPTE is to bring together the researchers working on
@@ -67,7 +68,8 @@ Technology (AIST), Japan.
 
 Important Dates
 ---------------------------------------------------------------------------
-Submission of extended abstracts: May 10, 2022 (AoE, extended)
+Submission of extended abstracts (including work-in-progress): May 31,
+2022 (AoE, extended, firm)
 Notification of acceptance: June 15, 2022
 Final version for informal proceedings: June 29, 2022
 Workshop: July 31, 2022
