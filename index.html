@@ -188,8 +188,123 @@ rewrite systems are given in a different formats.</p>
 <h2>
 Accepted Papers
 </h2>
-TBA.
 
+	<script language="javascript">
+
+	 function toggleVisible(divId) {
+	     var div = document.getElementById(divId);
+	     if (div) {
+		 if (div.style.display != 'block') {
+		     div.style.display = 'block';
+		 } else {
+		     div.style.display = 'none';
+		 }
+	     }
+	 }
+
+	</script>
+
+<ul>
+
+  <li> Christopher Brown, Adam Barwell, Simon Thompson, Susmit Sarkar
+  and Edwin Brady:
+
+  Towards a Refactoring Tool for Dependently-Typed Programs (work in
+  progress)
+
+  <a href="#p1" onclick="toggleVisible('p1'); return false;">[Abstract]</a>
+
+  <div class="abstract" id="p1">
+While there is considerable work on refactoring functional programs, so far this had not extended to dependently-typed programs. In this paper, we begin to explore this space by looking at a range of transformations related to indexed data and functions.
+  </div>
+
+  </li>
+
+  <li>
+  David Sabel and Manfred Schmidt-Schauss:
+  Program Equivalence in a Typed Probabilistic Call-by-Need Functional Language
+
+  <a href="#p2" onclick="toggleVisible('p2'); return false;">[Abstract]</a>
+
+  <div class="abstract" id="p2">
+We introduce a call-by-need variant of PCF with a binary probabilistic fair choice operator. We define its operational semantics and contextual equivalence as program equivalence, where the expected convergence is only observed on numbers. We investigate another program equivalence that views two closed expressions as distribution-equivalent if evaluation generates the same distribution on the natural numbers. We show that contextual equivalence implies distribution-equivalence. Future work is to provide a full proof of the opposite direction.
+  </div>
+  </li>
+
+  <li>
+  György Sághi, Péter Bereczky and Dániel Horpácsi:
+  A Machine-Checked Formalisation of Erlang Modules
+
+  <a href="#p3" onclick="toggleVisible('p3'); return false;">[Abstract]</a>
+
+  <div class="abstract" id="p3">
+This paper contributes to our long-term goal of defining the Erlang programming language in the Coq proof assistant, ultimately allowing us to formally reason about Erlang programs and their transformations. In previous work, we have described a sequential subset of the core language of Erlang in different semantics definition styles, which is extended with the module system in the present formalization. In particular, we define modules and inter-module calls in natural and functional big-step semantics, and we prove their equivalence. Last but not least, we validate the formal definition with respect to the reference implementation. The formal theories are machine-checked in Coq.
+  </div>
+  
+  </li>
+
+  <li>
+  Kasper Hagens, Cynthia Kop and Wouter Brozius:
+  Extending a Lemma Generation Approach for Rewriting Induction on Logically Constrained Term Rewriting Systems
+  <a href="#p4" onclick="toggleVisible('p4'); return false;">[Abstract]</a>
+
+  <div class="abstract" id="p4">
+When transforming a program into a more efficient version (for example translating a recursive program into an imperative program), it is important to guarantee that the input-output-behavior remains the same. One approach to assure this uses so-called Logically Constrained Term Rewriting Systems (LCTRSs). Two versions of a program are translated into LCTRSs and compared in a proof system (Rewriting Induction). Proving their equivalence in this system often requires the introduction of a lemma. In this paper we review a lemma generation approach by Fuhs, Kop and Nishida and propose two possible extensions.
+  </div>
+  </li>
+
+  <li>
+  Misaki Kojima and Naoki Nishida:
+  On Reducing Non-Occurrence of Specified Runtime Errors to All-Path Reachability Problems of Constrained Rewriting
+  <a href="#p5" onclick="toggleVisible('p5'); return false;">[Abstract]</a>
+
+  <div class="abstract" id="p5">
+A concurrent program with semaphore-based exclusive control can be transformed into a logically constrained term rewrite system that is computationally equivalent to the program. In this paper, we first propose a framework to reduce the non-occurrence of a specified runtime error in the program to an all-path reachability problem of the transformed logically constrained term rewrite system. Here, an all-path reachability problem is a pair of state sets and is true if every finite execution path starting with a state in the first set and ending with a terminating state includes a state in the second set. Then, as a case study, we show how to apply the framework to the race-freeness of semaphore-based exclusive control in the program. Finally, we show a simplified variant of a proof system for all-path reachability problems.
+  </div>
+  </li>
+
+  <li>
+  Naoki Nishida, Misaki Kojima and Takumi Kato:
+  On Transforming Imperative Programs into Logically Constrained Term Rewrite Systems via Injective Functions from Configurations to Terms
+  <a href="#p6" onclick="toggleVisible('p6'); return false;">[Abstract]</a>
+
+  <div class="abstract" id="p6">
+To transform an imperative program into a logically constrained term rewrite system (LCTRS, for short), previous work converts a statement list to rewrite rules in a stepwise manner, and proves the correctness along such a conversion and the big-step semantics of the program. On the other hand, the small-step semantics of a programming language comprises of inference rules that define transition steps of configurations. Partial instances of such inference rules are almost the same as rewrite rules in the transformed LCTRS. In this paper, we aim at establishing a framework for plain definitions and correctness proofs of transformations from programs into LCTRSs. To this end, for the transformation in previous work, we show an injective function from configurations to terms, and reformulate the transformation by means of the injective function. The injective function maps a transition step to a reduction step, and results in a plain correctness proof.
+  </div>
+  </li>
+
+  <li>
+  Péter Hegyi, Dániel Lukács and Máté Tejfel:
+  Refactoring Steps for P4 (work in progress)
+  <a href="#p7" onclick="toggleVisible('p7'); return false;">[Abstract]</a>
+
+  <div class="abstract" id="p7">
+P4 is a domain specific programming language developed mainly to describe data plane layer of packet processing algorithms of different network devices (e.g. switches, routers). The language has special domain-specific constructs (e.g. match/action tables) that cannot be found in other languages and as such there is no existing methodology yet for refactoring these constructs. The paper introduces the definition of some P4 specific refactoring steps. The proposed steps are implemented using P4Query an analyzer framework dedicated to P4.
+  </div>
+  </li>
+
+  <li>
+  Shujun Zhang and Naoki Nishida:
+  On Transforming Rewriting-Induction Proofs for Logical-Connective-Free Sequents into Cyclic Proofs
+  <a href="#p8" onclick="toggleVisible('p8'); return false;">[Abstract]</a>
+
+  <div class="abstract" id="p8">
+A GSC-terminating and orthogonal inductive definition set (IDS, for short) of first-order predicate logic can be transformed into a many-sorted term rewrite system (TRS, for short) such that a quantifier-free sequent is valid w.r.t. the IDS if and only if a term equation representing the sequent is an inductive theorem of the TRS. Under certain assumptions, it has been shown that a quantifier- and cut-free cyclic proof of a sequent can be transformed into a rewriting-induction (RI, for short) proof of the corresponding term equation. The RI proof can be transformed back into the cyclic proof, but it is not known how to transform arbitrary RI proofs into cyclic proofs. In this paper, we show that for a quantifier- and logical-connective-free sequent, if there exists an RI proof of the corresponding term equation, then there exists a cyclic proof of some sequent w.r.t. some IDS such that the cyclic proof ensures the validity of the initial sequent. To this end, we show a transformation of the RI proof into such a cyclic proof, a sequent, and an IDS.
+  </div>
+  </li>
+
+  <li>
+  Vlad Rusu and David Nowak:
+  Sufficiently Complete Partial Orders: Towards Corecursion Without Corecursion in Coq
+  <a href="#p9" onclick="toggleVisible('p9'); return false;">[Abstract]</a>
+
+  <div class="abstract" id="p9">
+Coinduction is an important concept in functional programming. To formally prove properties of corecursive functions one can try to define them in a proof assistant such as Coq. But there are strong limitations on the corecursive functions that can be defined. In particular, one cannot freely mix corecursion with recursion. In this paper we introduce the notion of Sufficiently Complete Partial Order (SCPO) that enables us to transform a program's coinductive types by means of "sufficiently completing" inductive types, thereby escaping Coq's builtin limitations. We also show how corecursive functions can be defined on SCPOs without actually using corecursion, by adapting some recent work where we show how this can be done by means of the unique solution of a fixpoint equation.
+  </div>
+  </li>
+
+</ul>
+  
 <h2>
 Program Committee
 </h2>

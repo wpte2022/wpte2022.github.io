@@ -33,8 +33,19 @@ p {
     font-size: 16pt;
 }
 
+div.abstract {
+    background:#F9F9F9;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: none;
+    font-size: 16pt;
+}
+
 li {
     font-size: 16pt;
+    margin-bottom: 8pt;
 }
 
 .pad {
@@ -45,3 +56,4 @@ li {
     padding-right: 50pt;
     #border: 1px solid #DADBDC;
 }
+
